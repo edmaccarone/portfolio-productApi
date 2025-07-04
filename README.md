@@ -49,7 +49,7 @@ A clean, lightweight ASP.NET Core Web API for managing products. Built with Enti
 **1. Clone the repo**
 
     git clone https://github.com/edmaccarone/portfolio-productApi.git
-    cd ProductApi
+    cd portfolio-productApi
 
 **2. Restore dependencies**
 
