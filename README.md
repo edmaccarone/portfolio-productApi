@@ -66,4 +66,4 @@ A clean, lightweight ASP.NET Core Web API for managing products. Built with Enti
 **5. Open Swagger UI**
 
     Navigate to:  
-    https://localhost:7040/swagger
+    https://localhost:7263/swagger
